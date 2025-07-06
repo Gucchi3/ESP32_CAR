@@ -1,5 +1,5 @@
 ## 状況  
-開発NOWW
+開発中
 
 ## 使用環境
 EasyEDA PRO  
