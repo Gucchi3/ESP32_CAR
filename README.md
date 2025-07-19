@@ -1,2 +1,6 @@
+## 状況  
+JLCPCB　40x40mm未満なら4層基盤が2ドルらしいから、配線しなおしたい　　※6層も2ドルかも...
+
 ## 使用環境
-EasyEDA PRO
+EasyEDA PRO  
+FUSION 360
